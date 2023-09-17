@@ -1,0 +1,8 @@
+.row {
+  list-style: none;
+  padding: 0;
+  display: flex; /* Display items in a row */
+  flex-wrap: wrap;
+  flex: row;
+  justify-content: flex-start;
+}
